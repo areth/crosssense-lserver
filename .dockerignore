@@ -10,3 +10,7 @@ Dockerfile
 .eslintrc
 .editorconfig
 .gitlab-ci.yml
+
+**/__pycache__/
+*.py[cod]
+*$py.class
